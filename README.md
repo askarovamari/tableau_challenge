@@ -36,6 +36,6 @@ Although, classic bikes are the top choice based on the number rides, it looks l
 
 **Step 4**
 
-Diving into the data, I analyzed trand of hours when bikes are rented based on seasons of the year. One common trend that is being observed throughout the year is that 8 am and 6 pm are the peak hours as it links to rush hours, when most of the people commute to work/school. However, comparing the winter and summer graphs we can coclude that Number of rides is obviously rising towards summer and then dropping closer o winter time. That is most likely driven by weather conditions in New York.
+Diving into the data, I analyzed trand of hours when bikes are rented based on seasons of the year. One common trend that is being observed throughout the year is that 8 am and 6 pm are the peak hours as it links to rush hours, when most of the people commute to work/school. However, comparing the winter and summer graphs we can conclude that Number of rides is obviously rising towards summer and then dropping closer o winter time. That is most likely driven by weather conditions in New York.
 
 <img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Peak%20hours%20by%20seasons.png">

@@ -23,3 +23,10 @@ A map is built that plots all bike stations with a visual indication of the most
 
 <img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Map.png">
 <img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Top%2010%20bar%20chart.png">
+
+
+**Step 3**
+
+Further in the anlaysis, I sliced data by user and bike types to unveil trends. As it's shown on the chart below, most of the users preferred riding classic bikes to electric ones in 2023. We can assume that members/subscribers are in favor of dockless bikes as there is no data indicating any rent of docked bikes by members.
+
+<img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Metrics%20per%20user_bike%20type.png">

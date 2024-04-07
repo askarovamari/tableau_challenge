@@ -43,6 +43,6 @@ Diving into the data, I analyzed trand of hours when bikes are rented based on s
 
 **Step 5**
 
-Lastly, 
+Lastly, if we delve deeper into summer months analysis, we find out that duration of the trips in rush hours is not correlated to the number of trips that are started at that time. The chart shows that the longest average duration of lies in the afternoon timeframe or late evening/night. In the tush hours bike rent might serve as interim option for public transportation, e.g. from home to subway station, whereas at late night bikes are practically one of the few options of transportation.
 
 <img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Summer.png">

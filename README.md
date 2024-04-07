@@ -29,6 +29,6 @@ A map is built that plots all bike stations with a visual indication of the most
 
 Further in the anlaysis, I sliced data by user and bike types to unveil trends. As it's shown on the chart below, most of the users preferred riding classic bikes to electric ones in 2023. We can assume that members/subscribers are in favor of dockless bikes as there is no data indicating any rent of docked bikes by members.
 
-Althoygh, classic bikes are the top choice based on the number rides, it looks like duration of trips is longer when users rent electric bikes or docked bikes in case of guest/casual users.
+Although, classic bikes are the top choice based on the number rides, it looks like duration of trips is longer when users rent electric bikes or docked bikes in case of guest/casual users.
 
 <img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Metrics%20per%20user_bike%20type.png">

@@ -13,6 +13,6 @@ https://public.tableau.com/views/TableauChallenge_17125218924390/CitiBikeDataana
 For this analysis I've taken CitiBike dataset of 2023 year. Files for all months were merged into one CSV file using Pandas. The CSV file generated in the Jupyter Notebook was loaded into Tableau as the only data source.
 
 **Step 1**
-I built a bar plot illustrating total number of rides taken in 2023 and split by months. The most number of trips falls into summer minths July-August when it's a seson of school holidays and vacations.
+I built a bar plot illustrating total number of rides taken in 2023 and split by months. The most number of trips (over 100k) falls into summer minths July-August when it's a seson of school holidays and vacations.
 
 <img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Total%20number%20of%20rides.png">

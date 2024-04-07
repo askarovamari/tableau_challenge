@@ -16,3 +16,10 @@ For this analysis I've taken CitiBike dataset of 2023 year. Files for all months
 I built a bar plot illustrating total number of rides taken in 2023 and split by months. The most number of trips (over 100k) falls into summer minths July-August when it's a seson of school holidays and vacations.
 
 <img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Total%20number%20of%20rides.png">
+
+
+**Step 2**
+A map is built that plots all bike stations with a visual indication of the most popular locations to start and end a journey. As shown in the analysis, 9 locations were identified as the most popular for starting and ending trips.
+
+<img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Map.png">
+<img width="452" alt="Raw data" src="https://github.com/askarovamari/tableau_challenge/blob/main/Top%2010%20bar%20chart.png">

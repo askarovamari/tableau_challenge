@@ -15,3 +15,4 @@ For this analysis I've taken CitiBike dataset of 2023 year. Files for all months
 **Step 1**
 I built a bar plot illustrating total number of rides taken in 2023 and split by months. The most number of trips falls into summer minths July-August when it's a seson of school holidays and vacations.
 
+<img width="452" alt="Raw data" src="[https://github.com/askarovamari/VBA-challenge/assets/79762733/3d6ba8d2-61c9-42a0-aa0a-65229b30746b](https://github.com/askarovamari/tableau_challenge/blob/main/Total%20number%20of%20rides.png)">
